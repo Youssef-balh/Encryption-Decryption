@@ -21,12 +21,7 @@ python encrypt.py
 ```bash
 python decrypt.py
 ```
-<div style="display: flex; justify-content: space-between;">
+![deco](https://github.com/Youssef-balh/Encryption-Decryption/assets/113738047/6bf97706-4747-4f87-91a3-53906caaa346) | <img width="867" alt="image" src="https://github.com/Youssef-balh/Encryption-Decryption/assets/113738047/73349d13-b4a6-4990-b2e5-a79f1a249aba">
 
-![deco](https://github.com/Youssef-balh/Encryption-Decryption/assets/113738047/6bf97706-4747-4f87-91a3-53906caaa346)
-
-<img width="867" alt="image" src="https://github.com/Youssef-balh/Encryption-Decryption/assets/113738047/73349d13-b4a6-4990-b2e5-a79f1a249aba">
-
-</div>
 
 
