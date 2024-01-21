@@ -6,11 +6,12 @@ This Python script is designed for data encryption and decryption using Elliptic
   Required Python libraries (install using `pip install -r requirements.txt`):
   - [`pycryptodome`]: Cryptographic library for ECC encryption.
   - [`opencv-python`]: OpenCV library for image processing.
-  - [`qrcode[pil]`]: QR code generation with Pillow support.
+  - [`qrcode`]: QR code generation.
+  - [`pil`]: Image processing library.
   - [`ecies`]: ECC (Elliptic Curve Cryptography) encryption.
 
   
 ### Encryption
 
 ```bash
-python encrypt.py --input data.txt --output encrypted_image.png
+python encrypt.py 
