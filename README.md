@@ -9,9 +9,15 @@ This Python script is designed for data encryption and decryption using Elliptic
   - [`qrcode`]: QR code generation.
   - [`pil`]: Image processing library.
   - [`ecies`]: ECC (Elliptic Curve Cryptography) encryption.
+  - [`posixpath`]: Provides functions for manipulating paths based on the POSIX standard.
 
   
 ### Encryption
 
 ```bash
 python encrypt.py 
+```
+### Decryption
+```bash
+python decrypt.py
+```
